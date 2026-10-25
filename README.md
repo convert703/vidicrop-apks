@@ -8,7 +8,7 @@ Ce dépôt contient uniquement les fichiers d'installation (APK) de l'applicatio
 
 ## 📥 Télécharger
 
-👉 **[Télécharger la dernière version](https://github.com/convert703/vidicrop-apks/releases/latest)**
+👉 **[Télécharger la dernière version](https://github.com/convert703/vidicrop-apks/releases/download/v1.0.4/vidicrop.apk)**
 
 Sur la page qui s'ouvre, touchez **`vidicrop.apk`** dans la section **Assets**.
 
